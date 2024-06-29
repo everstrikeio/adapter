@@ -1,0 +1,9 @@
+artifacts
+cache
+node_modules
+test
+*.log
+.env
+.contract
+.wallet
+hardhat.config.private.js
